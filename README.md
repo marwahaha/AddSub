@@ -14,7 +14,7 @@ women have been added/removed from voting rolls? You can do that.  But to do tha
 has to look at each voter and determine which category (that you have chosen) they fall into.
 
 The list of categories is defined in main.py as the list of filters to use.  You can have
-can abritrary number of filters with arbitrary complexity.   There are several examples given in the
+can arbitrary number of filters with arbitrary complexity.   There are several examples given in the
 code to get you started.
 
 Do you wish for different / additional statistics that the filters support but do not know python?
